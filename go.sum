@@ -1,7 +1,3 @@
-github.com/gyaan/go-module-test v0.0.0-20190506180434-0321e387906b h1:C8F3/18t/gorvy5uHT8GpGaeczzJ/Lhz9hi2CJiTtRg=
-github.com/gyaan/go-module-test v0.0.0-20190506180434-0321e387906b/go.mod h1:x/ilcjTlw1QHkj6RlVMSj4I+9Bm3v7L7xORtoVMLVgg=
-github.com/gyaan/go-module-test v0.0.0-20190506181423-cced0c416e81 h1:o9M65EyFmPe/m5qu6W6aO+MD1jiljW0+w1wkNEwA72E=
-github.com/gyaan/go-module-test v0.0.0-20190506181423-cced0c416e81/go.mod h1:x/ilcjTlw1QHkj6RlVMSj4I+9Bm3v7L7xORtoVMLVgg=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c h1:qgOY6WgZOaTkIIMiVjBQcw93ERBE4m30iBm00nkL0i8=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 rsc.io/quote v1.5.2 h1:w5fcysjrx7yqtD/aO+QwRjYZOKnaM9Uh2b40tElTs3Y=
